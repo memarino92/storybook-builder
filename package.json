@@ -55,7 +55,7 @@
   "peerDependencies": {
     "@angular-devkit/architect": ">=0.800.0",
     "@angular-devkit/core": ">=8.0.0",
-    "@storbook/core": ">=6.0.0",
+    "@storybook/core": ">=6.0.0",
     "@storybook/angular": ">=6.0.0"
   },
   "commitlint": {
